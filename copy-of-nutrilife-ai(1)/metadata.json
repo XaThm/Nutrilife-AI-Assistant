@@ -1,0 +1,8 @@
+{
+  "name": "Copy of NutriLife AI |||",
+  "description": "An AI-powered health assistant that analyzes food and lifestyle products, offers healthier alternatives, provides comprehensive lifestyle overhaul plans, and generates personalized product recommendations to promote well-being.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "prompt": ""
+}
